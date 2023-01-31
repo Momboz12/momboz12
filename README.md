@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@claudiooperti-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/claudiooperti)
 [![Facebook](https://img.shields.io/badge/Facebook-@claudioperti-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/claudio.operti)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/claudio-daniel-operti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Claudio_Operti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/claudio-daniel-operti)
 
 <!--
 **Momboz12/momboz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
