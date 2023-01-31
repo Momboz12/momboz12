@@ -1,8 +1,6 @@
 # Hola, mi nombre es Claudio Operti 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/OpertiClaudio?style=social)](https://twitter.com/OpertiClaudio)
-
 ## Me puedes encontrar en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@OpertiClaudio-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/OpertiClaudio)
