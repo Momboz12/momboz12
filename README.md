@@ -1,4 +1,4 @@
-### Hola, mi nombre es Claudio Operti 👋
+## Hola, mi nombre es Claudio Operti 👋
 
 <!--
 **Momboz12/momboz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
