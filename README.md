@@ -1,7 +1,7 @@
 # Hola, mi nombre es Claudio Operti 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/OpertiClaudio?style=social)]((https://twitter.com/OpertiClaudio)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OpertiClaudio?style=social)](https://twitter.com/OpertiClaudio)
 
 <!--
 **Momboz12/momboz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
