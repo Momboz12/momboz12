@@ -1,5 +1,7 @@
 # Hola, mi nombre es Claudio Operti 👋
 
+Soy desarrolador de software hace ya 12 años, siempre me incline mas por el lado de aplicaciones de escritorio, trabajando en lenguajes VB6, C#, SQL principalmente y utilizando algunas tecnologias como RFID
+
 ## Tecnologías:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
